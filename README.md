@@ -1,2 +1,2 @@
 # DoubleDoubleDominoes
-Implementarea unui sistem automat de calculare a scorului pentru o variantă a jocului de domino numită Double Double Dominoes.
+Implementation of an automatic scoring system for a domino game variant called Double Double Dominoes. Image files not included.
